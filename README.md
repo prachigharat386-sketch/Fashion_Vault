@@ -1,1 +1,26 @@
-[image] (https://github.com/prachigharat386-sketch/Fashion_Vault/blob/392fb7013d913fd94fce41dff941809d41f5b81e/Screenshot%202026-06-06%20215840.png)
+# Fashion Vault
+
+A modern fashion store website built using React.js.
+
+## Features
+- Beautiful Homepage
+- Responsive Design
+- Product Cards
+- Hero Section
+- Navigation Bar
+- Footer Section
+
+## Technologies Used
+- React.js
+- CSS3
+- JavaScript
+
+## Project Structure
+- Navbar Component
+- Hero Component
+- Products Component
+- Footer Component
+- App Component
+
+## Author
+Prachi Gharat
