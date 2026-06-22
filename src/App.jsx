@@ -1,10 +1,10 @@
 import "./App.css";
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Categories from "./components/Categories";
-import Products from "./components/Products";
-import Testimonials from "./components/Testimonials";
-import Footer from "./components/Footer";
+import Navbar from "./Components/Navbar";
+import Hero from "./Components/Hero";
+import Categories from "./Components/Categories";
+import Products from "./Components/Products";
+import Testimonials from "./Components/Testimonials";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
